@@ -22,5 +22,8 @@ Reading references:
 1. Gazebo vs Ignition [Gazebo vs Ignition](https://allisonthackston.com/articles/ignition-vs-gazebo.html#:~:text=Both%20Ignition%20and%20Gazebo%20calculate,like%20they%20are%20in%20Ignition.)
 
 
+**Progress:**
+
+1. Migration to ROS2 in progress, currently launcing robot with gazebo part left. Instead of using  robot models from jderobot package, this time they have to be loaded directly from custom robots. Launch.py file has to be modified accordingly. 
 
 
